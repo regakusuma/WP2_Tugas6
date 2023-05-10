@@ -1,0 +1,3 @@
+bugs di:
+-jika input kosong maka data tetap di input ke database 
+-jika nis tidak 12 digit maka ia akan di tulis pada bagian atas table dikarenakan key primary berdasarkan nomor nis jadi jika nis nya 11 digit maka ia akan dibawa keatas karena ia lebih kecil nominal nya meskipun ia diinput paling awal yang notabenenya harus ada di bawah sesuai waktu dia diinputnya

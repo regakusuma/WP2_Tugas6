@@ -1,0 +1,41 @@
+table{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+div.container{
+    margin: auto;
+    width:500px;
+    height: 800px;
+    border: 2px solid white;
+    background-color: whitesmoke;
+    color: #666;
+    border-radius: 5%;
+    transition-duration: 0.5s;
+    box-sizing: border-box;
+    font-size: 20px;
+    
+}
+div.container:hover{
+    box-shadow: -3px -3px 2px rgba(0,0,0,0.4);
+    padding: 10px;
+    border: 1px solid grey;
+
+}
+td{
+    padding: 10px;
+}
+input.submit{
+    margin-top: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    border: 1px solid #666;
+    color: #666;
+    transition-duration: 0.5s;
+}
+input.submit:hover{
+    background-color: #4c4c4c;
+    color: white;
+    border:1px solid #4c4c4c;
+    border-radius: 8%;
+}
+
